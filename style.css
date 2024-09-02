@@ -18,7 +18,7 @@ body {
 .container {
     background: linear-gradient(135deg, #ffffff, #f0f0f0);
     padding: 20px;
-    border: 2px solid black;
+    border: 2px solid #fff;
     border-radius: 10px;
     box-shadow: 0 3 20px rgba(0, 0, 0, 0.1);
      background-color: #000;
